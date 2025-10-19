@@ -15,7 +15,7 @@ A highly secure authentication door component with advanced security features.
 3. Change the master password in `encryptedKey` variable
 
 ## Password
-Default encrypted password: `11223`
+Default encrypted password: [Contact admin for password]
 
 ## Demo
 [Add screenshot or live demo link here]
